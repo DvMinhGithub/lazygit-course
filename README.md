@@ -3,3 +3,4 @@ Goal: Learn Lazygit
 Commit 4 "fix typo"
 Amend test
 Line from main branch
+Line from feature branch
